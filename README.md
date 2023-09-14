@@ -1,9 +1,8 @@
 # Добрый день!
 
-## Меня зовут Юлия, я Тестировщик ПО
+## Меня зовут Юлия, я Тестировщик/QA Engineer/AQA Engineer
 
 ## Я закончила курсы Нетологии "Тестировщик ПО","Linux и программирование на Bash"
-
 
 ## Hard skills:
 
@@ -52,7 +51,6 @@
 * [Домашние работы по курсу Нетологии](https://github.com/7Yuliya/AleksinaYuliya/blob/master/Homeworks.md)
 
 * [Сертификаты об обучении](https://github.com/7Yuliya/AleksinaYuliya/tree/master/Certificates)
-
 
 ## Контакты:
 
