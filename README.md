@@ -48,9 +48,9 @@
 
 ## Иные ссылки:
 
-* [Домашние работы по курсу Нетологии](https://github.com/7Yuliya/AleksinaYuliya/blob/master/Homeworks.md)
+* [Домашние работы по курсу Нетологии](https://github.com/7Yuliya/AleksinaY/blob/master/Homeworks.md)
 
-* [Сертификаты об обучении](https://github.com/7Yuliya/AleksinaYuliya/tree/master/Certificates)
+* [Сертификаты об обучении](https://github.com/7Yuliya/AleksinaY/tree/master/Certificates)
 
 ## Контакты:
 
