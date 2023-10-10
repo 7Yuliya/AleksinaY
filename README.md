@@ -52,6 +52,11 @@
 
 * [Сертификаты об обучении](https://github.com/7Yuliya/AleksinaY/tree/master/Certificates)
 
+## Рекомендательные письма:
+
+* [Рекомендательное письмо_E-PR Online Inc.](https://github.com/7Yuliya/AleksinaY/blob/master/LettersOfRecommendation/Yuliya%20Aleksina%20.pdf)
+
+
 ## Контакты:
 
 * E-mail: u35353555@gmail.com
